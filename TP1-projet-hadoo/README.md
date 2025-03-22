@@ -28,6 +28,11 @@ Accédez à l'interface web HDFS : http://localhost:9870
 3. Transfert de fichiers entre système local et HDFS
 4. Navigation et affichage récursif du contenu
 
+## Captures d'écran
+
+![interface](https://github.com/user-attachments/assets/d29d5777-9e6f-44aa-a408-f83ace7ac0f2)
+
+![results](https://github.com/user-attachments/assets/71651b55-3348-4e20-a3f9-bc798bd7b562)
 
 ## Commandes importantes utilisées
 
@@ -94,9 +99,5 @@ hdfs dfs -rm -r /BDDC/JAVA
 # Affichage de l'état final
 hdfs dfs -ls -R /BDDC
 
-## Captures d'écran
 
-![interface](https://github.com/user-attachments/assets/d29d5777-9e6f-44aa-a408-f83ace7ac0f2)
-
-![results](https://github.com/user-attachments/assets/71651b55-3348-4e20-a3f9-bc798bd7b562)
 
