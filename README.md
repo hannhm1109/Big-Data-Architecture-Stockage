@@ -1,6 +1,6 @@
 # Architecture de Stockage Big Data
 
-Ce repository contient tous les travaux pratiques réalisés dans le cadre du cours "Architecture de Stockage 2025".
+Ce repository contient tous les travaux pratiques réalisés dans le cadre du cours "Big data Architecture de Stockage".
 
 ## Structure
 
