@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  hbase:
+    image: dajobe/hbase
+    ports:
+      - "16010:16010"  # Master UI
+      - "16030:16030"  # Region Server UI
+      - "2181:2181"    # ZooKeeper
+      - "8080:8080"    # REST API
+      - "8085:8085"    # Thrift API
+      - "9090:9090"    # Thrift API
+      - "9095:9095"    # Thrift API (secure)
+    hostname: hbase-docker
+    environment:
+      - TZ=Europe/Paris
