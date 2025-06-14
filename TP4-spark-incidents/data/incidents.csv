@@ -1,0 +1,26 @@
+Id,titre,description,service,date
+1,Panne électrique,Coupure de courant dans l'atelier,Maintenance,2023-01-15
+2,Défaut qualité,Produit non conforme,Production,2023-02-20
+3,Accident travail,Chute d'un employé,Sécurité,2023-03-10
+4,Retard livraison,Fournisseur en retard,Logistique,2023-04-05
+5,Bug logiciel,Erreur dans le système,IT,2023-05-12
+6,Panne machine,Arrêt de production,Maintenance,2023-06-18
+7,Formation manquante,Employé non formé,RH,2023-07-22
+8,Problème réseau,Connexion instable,IT,2023-08-30
+9,Défaut matière,Matériau défectueux,Production,2023-09-14
+10,Incident sécurité,Alarme déclenchée,Sécurité,2023-10-28
+11,Retard production,Planning non respecté,Production,2024-01-10
+12,Panne climatisation,Température trop élevée,Maintenance,2024-02-15
+13,Erreur commande,Mauvaise référence,Logistique,2024-03-20
+14,Virus informatique,Système infecté,IT,2024-04-25
+15,Absence personnel,Manque d'effectif,RH,2024-05-30
+16,Défaut emballage,Packaging incorrect,Production,2024-06-12
+17,Coupure eau,Problème plomberie,Maintenance,2024-07-18
+18,Vol matériel,Équipement disparu,Sécurité,2024-08-22
+19,Retard transport,Camion en panne,Logistique,2024-09-27
+20,Crash serveur,Serveur principal down,IT,2024-10-15
+21,Surcharge électrique,Disjoncteur sauté,Maintenance,2022-01-08
+22,Formation sécurité,Procédure non respectée,Sécurité,2022-02-14
+23,Erreur facturation,Montant incorrect,Finance,2022-03-21
+24,Retard assemblage,Pièce manquante,Production,2022-04-18
+25,Maintenance préventive,Révision équipement,Maintenance,2022-05-25
