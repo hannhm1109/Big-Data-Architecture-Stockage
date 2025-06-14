@@ -6,7 +6,7 @@ Ce repository contient tous les travaux pratiques réalisés dans le cadre du co
 
 - [TP1 - Manipulation du système de fichiers HDFS](TP1-projet-hadoo/)
 - [TP2 - Manipulation d'une table HBase](TP2-HBase/)
-- TP3 - À venir
+- [TP3 - Traitement parallèle et distribué avec Spark](TP3-spark/)
 
 ## Environnement
 
