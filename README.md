@@ -8,6 +8,7 @@ Ce repository contient tous les travaux pratiques réalisés dans le cadre du co
 - [TP2 - Manipulation d'une table HBase](TP2-HBase/)
 - [TP3 - Traitement parallèle et distribué avec Spark](TP3-spark/)
 - [TP4 - Analyse des incidents industriels avec Spark](TP4-spark-incidents/)
+- [TP5 - Analyse de données météorologiques avec Kafka Streams](TP5-kafka-weather-processor/)
 
 ## Environnement
 
